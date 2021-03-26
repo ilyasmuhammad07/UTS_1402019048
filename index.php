@@ -38,10 +38,12 @@
     <section class="about">
       <div class="container">
         <h3>EDU-COVID</h3>
-        <p><strong>Education about Corona Virus (EduCovid-19)</strong> merupakan website elearning bagi pelajar sekolah dasar untuk dapat menjembatani guru, orang tua dan siswa dalam memberikan informasi yang benar seputar penyebaran, bahaya, dan penangan terkait wabah virus corona. Selain itu, di website ini dilengkapi dengan materi Tematik yang siswa dapatkan di sekolah. Dengan menerapkan kurikulum sekolah dasar pelajaran tematik, diharapkan dapat menyesuaikan sistem pembelajaran yang terdapat di sekolah. Perancangan EduCovid-19 ini berisi materi-materi berupa edukasi serta latihan soal seputar Covid-19 dan pelajaran tematik dimana dalam salah satu materi tersebut akan ada tanya jawab sebagai salah satu metode penilaian interaktif bagi para guru. Dalam perancangan sistem ini menggunakan metode RAD dan metode penelitian yang digunakan dalam pengumpulan data yaitu wawancara, observasi dan studi kasus. Dengan penerapan sistem pembelajaran menggunakan EduCovid-19 nantinya mampu meningkatkan ketertarikan anak dalam proses pembelajaran yang saat ini sedang berlangsung yaitu school from home dan memberikan pengetahuan kepada siswa mengenai bahaya dan cara menghindari serta mengatasi Covid-19.
+        <p>
+          <strong>Education about Corona Virus (EduCovid-19)</strong> merupakan website elearning bagi pelajar sekolah dasar untuk dapat menjembatani guru, orang tua dan siswa dalam memberikan informasi yang benar seputar penyebaran, bahaya, dan penangan terkait wabah virus corona. Selain itu, di website ini dilengkapi dengan materi Tematik yang siswa dapatkan di sekolah. Dengan menerapkan kurikulum sekolah dasar pelajaran tematik, diharapkan dapat menyesuaikan sistem pembelajaran yang terdapat di sekolah. Perancangan EduCovid-19 ini berisi materi-materi berupa edukasi serta latihan soal seputar Covid-19 dan pelajaran tematik dimana dalam salah satu materi tersebut akan ada tanya jawab sebagai salah satu metode penilaian interaktif bagi para guru. Dalam perancangan sistem ini menggunakan metode RAD dan metode penelitian yang digunakan dalam pengumpulan data yaitu wawancara, observasi dan studi kasus. Dengan penerapan sistem pembelajaran menggunakan EduCovid-19 nantinya mampu meningkatkan ketertarikan anak dalam proses pembelajaran yang saat ini sedang berlangsung yaitu school from home dan memberikan pengetahuan kepada siswa mengenai bahaya dan cara menghindari serta mengatasi Covid-19.
         </p>
         <p>
-          Disalin dari link: <strong><a href="https://ejournal.bsi.ac.id/ejurnal/index.php/ijse/article/view/9073" target="_blank">EDU-COVID</a></strong></p>
+          Disalin dari link: <strong><a href="https://ejournal.bsi.ac.id/ejurnal/index.php/ijse/article/view/9073" target="_blank">EDU-COVID</a></strong>
+        </p>
         </div>
       </section>
 
